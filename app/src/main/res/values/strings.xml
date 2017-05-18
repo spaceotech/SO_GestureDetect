@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GestureDetect</string>
+    <string name="tvswipDescription">On swip left,right,top,bottom alert will show</string>
+    <string name="toastLeft">Left Swapping</string>
+    <string name="toastRight">Right Swapping</string>
+    <string name="toastBottom">Bottom Swapping</string>
+    <string name="toastTop">Top Swapping</string>
+</resources>
